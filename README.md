@@ -61,10 +61,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
   </tr>
 </table>
