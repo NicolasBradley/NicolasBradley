@@ -70,7 +70,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/NicolasBradley/NicolasBradley/output/github-contribution-grid-snake.svg" />
+     <img src="https://raw.githubusercontent.com/NicolasBradley/NicolasBradley/output/github-contribution-grid-snake.svg" alt="snake">
     </td>
   </tr>
 </table>
