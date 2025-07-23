@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" />
@@ -75,7 +75,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=NicolasBradley&theme=codeSTACKr&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBradley&layout=compact&theme=dark&hide_border=false" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBradley&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
