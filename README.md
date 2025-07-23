@@ -46,10 +46,17 @@
 
 ---
 
-### 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 GitHub Stats
-
-![NicolasBradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <h3>🏆 Achievements</h3>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest" alt="trophy" />
+      </a>
+    </td>
+    <td>
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
