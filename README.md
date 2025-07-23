@@ -55,6 +55,12 @@
   <a href="https://instagram.com/alevelingofficial">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
   </a>
+  <a href="mailto:nicolasbradleychandra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Click%20to%20Send-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nbc-bradley">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
