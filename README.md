@@ -64,14 +64,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest" alt="trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/NicolasBradley/NicolasBradley/output/github-contribution-grid-snake.svg" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NicolasBradley/NicolasBradley/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
