@@ -66,6 +66,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" />
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <img src="https://streak-stats.demolab.com/?user=NicolasBradley&theme=dark&hide_border=false" />
     </td>
