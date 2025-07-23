@@ -17,7 +17,7 @@
 - 🧠 Passionate about building tools that make self-growth visual and fun
 
 ---
-
+![Snake animation](https://raw.githubusercontent.com/NicolasBradley/NicolasBradley/output/github-contribution-grid-snake.svg)
 ### 🚀 Projects
 
 | Project | Description | Language |
