@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Background Gif" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D;iOS+Dev+%7C+EECS+Student+%7C+Swift+%7C+Python+%7C+C" alt="Typing SVG" />
 </p>
 
@@ -76,10 +72,3 @@
   </tr>
 </table>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NicolasBradley/NicolasBradley/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
