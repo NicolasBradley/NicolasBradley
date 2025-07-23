@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=NicolasBradley&theme=dark&hide_border=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NicolasBradley&theme=codeSTACKr&hide_border=false" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBradley&layout=compact&theme=dark&hide_border=false" />
