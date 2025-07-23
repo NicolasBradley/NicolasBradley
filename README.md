@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi+I'm+Bradley+👋;iOS+Developer+%7C+CS+Student+%7C+Indie+Builder" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&width=435&lines=Hi+I'm+Bradley+👋;iOS+Dev+%7C+CS+Student+%7C+Indie+Builder" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>EECS Student @ National Tsing Hua University • Swift • Python • Web Dev • C++ Learner</em>
