@@ -67,11 +67,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=true&theme=radical" />
     </td>
     <td>
-      ![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasBradley&theme=dark&hide_border=false)
+      <img src="https://streak-stats.demolab.com/?user=NicolasBradley&theme=dark&hide_border=false" />
     </td>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBradley&layout=compact&theme=dark&hide_border=false)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBradley&layout=compact&theme=dark&hide_border=false" />
     </td>
-    
   </tr>
 </table>
