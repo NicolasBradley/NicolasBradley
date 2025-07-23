@@ -28,7 +28,7 @@
 - 🎓 Currently studying at **National Tsing Hua University**, Taiwan 🇹🇼  
 - 💻 Experienced with **Python**, **C**, **Swift**, and **Web Development**  
 - 📚 Currently mastering **C++**  
-- 📱 Creator of **[A Leveling](https://github.com/NicolasBradley/A-Leveling)** – Track your academic progress like *Solo Leveling*  
+- 📱 Creator of **[A Leveling](https://github.com/NicolasBradley/A-Leveling)** – Track your academic progress like the anime *Solo Leveling*  
 - 🧠 Passionate about building tools that make self-growth visual and fun  
 
 ---
