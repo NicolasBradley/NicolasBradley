@@ -23,11 +23,12 @@
 | Project | Description | Language |
 |--------|-------------|----------|
 | [A Leveling App](https://github.com/NicolasBradley/A-Leveling) | iOS App for tracking A-Level study progress | Swift |
+| [PulseBridge Technology](https://github.com/xs1128/PulseBridge-Technology) | Landing page for SMU Global Business Plan Competition | JavaScript |
 | [I2P-1-CS-Final-Project](https://github.com/NicolasBradley/I2P-1-CS-Final-Project) | Final Project for Intro to Programming 1 (Prof. Min Chun Hu) | C |
 | [Final-Project-Battleship](https://github.com/NicolasBradley/Final-Project-Battleship) | Battleship game simulation | Python |
 | [one-piece-matching-card-final-project](https://github.com/NicolasBradley/one-piece-matching-card-final-project) | Memory card game with One Piece theme | Python |
 | [shiptivitas-1](https://github.com/NicolasBradley/shiptivitas-1) | Task 1 from InsideSherpa YC Startup Program | Python |
-| [PulseBridge Technology](https://github.com/xs1128/PulseBridge-Technology) | Landing page for SMU Global Business Plan Competition | JavaScript |
+
 
 ---
 
