@@ -14,6 +14,12 @@
   <a href="https://instagram.com/alevelingofficial">Instagram</a>
 </p>
 
+<p align="center">
+  <a href="https://tenor.com/view/nervous-dog-spinning-pixels-dog-gif-17317944">
+    <img src="https://media.tenor.com/Aq4nnClR37AAAAAj/nervous-dog-spinning.gif" alt="A spinning pixel dog wearing sunglasses" width="140" />
+  </a>
+</p>
+
 ## A little about me
 
 I'm Nicolas Bradley Chandra, an EECS student who enjoys turning personal problems into useful software. My work spans native iOS apps, collaborative web experiences, and practical experiments with AI.
