@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:bradley@chandra.co">Email</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/nbc-bradley">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://sites.google.com/view/aleveling/contact">A Leveling website</a> &nbsp;·&nbsp;
+  <a href="https://www.sloppylabs.com/">SloppyLabs</a> &nbsp;·&nbsp;
   <a href="https://instagram.com/alevelingofficial">Instagram</a>
 </p>
 
