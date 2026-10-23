@@ -46,15 +46,31 @@ I care about interfaces that make complex things feel approachable, and about ge
 - **Encredible**: exploring SwiftUI interfaces and ARKit/LiDAR for spatial evidence verification in a volunteer activity verification prototype.
 - **Self-hosted Hermes**: experimenting with AI agent workflows and Linux-based self-hosting.
 
-## Tools I reach for
+## Tech stack
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Languages & frameworks**
 
-Also comfortable working with C/C++, JavaScript, HTML/CSS, Git, and Figma.
+![Swift, Python, C, C++, Dart, Flutter, JavaScript, HTML, CSS, React, Firebase, and Vite](https://skillicons.dev/icons?i=swift,py,c,cpp,dart,flutter,js,html,css,react,firebase,vite&perline=8)
+
+![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-1F6FEB?style=flat-square)
+
+**Development tools**
+
+![Git, GitHub, GitLab, Linux, Bash, VS Code, CLion, Android Studio, and Arduino](https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vscode,clion,androidstudio,arduino&perline=9)
+
+**AI tools**
+
+![ChatGPT / GPT](https://img.shields.io/badge/ChatGPT%20%2F%20GPT-74AA9C?style=flat-square)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square)
+![Google Stitch](https://img.shields.io/badge/Google%20Stitch-6750A4?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Design & workspace**
+
+![Figma and Notion](https://skillicons.dev/icons?i=figma,notion&perline=2)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square)
 
 <details>
 <summary>GitHub activity</summary>
