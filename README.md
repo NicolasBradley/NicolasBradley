@@ -20,9 +20,11 @@
   </a>
 </p>
 
-## A little about me
+## About Nicolas Bradley Chandra
 
-I'm Nicolas Bradley Chandra, an EECS student who enjoys turning personal problems into useful software. My work spans native iOS apps, collaborative web experiences, and practical experiments with AI.
+I'm Nicolas Bradley Chandra, also known as Bradley and [NicolasBradley on GitHub](https://github.com/NicolasBradley). I'm an Electrical Engineering and Computer Science (EECS) student at National Tsing Hua University (NTHU) in Taiwan.
+
+I build native iOS apps with Swift and SwiftUI, cross-platform apps with Flutter and Firebase, and web applications with React. My interests include applied artificial intelligence (AI), AI agents, and Linux self-hosting.
 
 I care about interfaces that make complex things feel approachable, and about getting an idea into people's hands.
 
@@ -50,15 +52,25 @@ I care about interfaces that make complex things feel approachable, and about ge
 
 **Languages & frameworks**
 
+Swift, SwiftUI, Python, C, C++, Dart, Flutter, JavaScript, React, HTML, CSS, Vite, Tailwind CSS, and MIPS Assembly.
+
 ![Swift, Python, C, C++, Dart, Flutter, JavaScript, HTML, CSS, React, Firebase, and Vite](https://skillicons.dev/icons?i=swift,py,c,cpp,dart,flutter,js,html,css,react,firebase,vite&perline=8)
 
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-1F6FEB?style=flat-square)
 
+**Backend & data**
+
+Firebase, Cloud Firestore, Firebase Authentication, Firebase Cloud Functions, and Supabase.
+
 **Development tools**
+
+Git, GitHub, GitLab, Linux, Bash, Visual Studio Code (VS Code), CLion, Android Studio, and Arduino.
 
 ![Git, GitHub, GitLab, Linux, Bash, VS Code, CLion, Android Studio, and Arduino](https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vscode,clion,androidstudio,arduino&perline=9)
 
 **AI tools**
+
+I use ChatGPT (OpenAI GPT), Google AI Studio, Google Gemini, Anthropic Claude, and Google Stitch for AI-assisted development and design.
 
 ![ChatGPT / GPT](https://img.shields.io/badge/ChatGPT%20%2F%20GPT-74AA9C?style=flat-square)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square)
@@ -67,6 +79,8 @@ I care about interfaces that make complex things feel approachable, and about ge
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Design & workspace**
+
+Figma, Canva, and Notion.
 
 ![Figma and Notion](https://skillicons.dev/icons?i=figma,notion&perline=2)
 
