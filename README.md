@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D;iOS+Dev+%7C+EECS+Student+%7C+Swift+%7C+Python+%7C+C" alt="Hi, My Name Is Bradley! :D — iOS Dev | EECS Student | Swift | Python | C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D;iOS+Dev+%7C+EECS+Student+%7C+Swift+%7C+Python+%7C+C" alt="Hi, My Name Is Bradley! :D | iOS Dev | EECS Student | Swift | Python | C" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 I'm Nicolas Bradley Chandra, an EECS student who enjoys turning personal problems into useful software. My work spans native iOS apps, collaborative web experiences, and practical experiments with AI.
 
-I care about interfaces that make complex things feel approachable—and about getting an idea into people's hands.
+I care about interfaces that make complex things feel approachable, and about getting an idea into people's hands.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=1300&color=00B8C4&center=true&vCenter=true&width=600&height=36&repeat=true&lines=SwiftUI+apps.+Flutter+experiments.;React+websites.+Allegro+game+loops." alt="SwiftUI apps. Flutter experiments. React websites. Allegro game loops." width="600" height="36" />
@@ -43,8 +43,8 @@ I care about interfaces that make complex things feel approachable—and about g
 
 ## Beyond the featured projects
 
-- **Encredible** — exploring SwiftUI interfaces and ARKit/LiDAR for spatial evidence verification in a volunteer activity verification prototype.
-- **Self-hosted Hermes** — experimenting with AI agent workflows and Linux-based self-hosting.
+- **Encredible**: exploring SwiftUI interfaces and ARKit/LiDAR for spatial evidence verification in a volunteer activity verification prototype.
+- **Self-hosted Hermes**: experimenting with AI agent workflows and Linux-based self-hosting.
 
 ## Tools I reach for
 
