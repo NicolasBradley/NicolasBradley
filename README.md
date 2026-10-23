@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm Bradley.</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D;iOS+Dev+%7C+EECS+Student+%7C+Swift+%7C+Python+%7C+C" alt="Hi, My Name Is Bradley! :D — iOS Dev | EECS Student | Swift | Python | C" />
+</p>
 
 <p align="center">
   EECS at National Tsing Hua University, Taiwan<br>
   I build apps for learning, travel, and the communities around me.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1800&color=3B82F6&center=true&vCenter=true&width=600&height=40&lines=iOS+%C2%B7+Web+%C2%B7+Applied+AI;Making+progress+visible." alt="iOS · Web · Applied AI. Making progress visible." width="600" height="40">
 </p>
 
 <p align="center">
@@ -26,7 +24,7 @@ I care about interfaces that make complex things feel approachable—and about g
 
 | Project | What I've been building | Stack |
 | :--- | :--- | :--- |
-| **[Travel Agent](https://github.com/Fincarson/Travelling_with_Flutter)** | Collaborative travel planning with shared itineraries, group chat, and AI assistance. Team leader and sprint facilitator for our Software Studio project. | Flutter · Dart · Firebase |
+| **[Travel Agent](https://github.com/Fincarson/Travelling_with_Flutter)** | Collaborative travel planning with shared itineraries, group chat, and AI assistance. | Flutter · Dart · Firebase |
 | **[A Leveling](https://sites.google.com/view/aleveling/contact)** | My published iOS app for tracking academic progress through practice logs, visual feedback, and a motivational companion named Blue. | Swift · SwiftUI |
 | **[NTHU Confessions](https://confession.sloppylabs.com/)** | A student confession submission interface, with submissions queued for review. Built as part of SloppyLabs. | React · Supabase |
 | **[EECS-GSA website](https://www.nthu-eecsgsa.org/)** | Contributing to the student association's website design and development, bringing together community information and a distinct visual identity. | Web · UI/UX |
@@ -35,11 +33,6 @@ I care about interfaces that make complex things feel approachable—and about g
 
 - **Encredible** — exploring SwiftUI interfaces and ARKit/LiDAR for spatial evidence verification in a volunteer activity verification prototype.
 - **Self-hosted Hermes** — experimenting with AI agent workflows and Linux-based self-hosting.
-
-## Community & experience
-
-- **Head of Public Relations, EECS-GSA** · June 2026–present. Working on outreach, partnerships, and student engagement alongside my website contributions.
-- **Media Intern, [Cultivator](https://cultivatortech.com/)** · April 2026–present. Built the startup's website and produced digital content, including 11 Reels with 50K+ combined views.
 
 ## Tools I reach for
 
