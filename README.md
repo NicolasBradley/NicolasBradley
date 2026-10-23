@@ -24,7 +24,7 @@
 
 I'm Nicolas Bradley Chandra, also known as Bradley and [NicolasBradley on GitHub](https://github.com/NicolasBradley). I'm an Electrical Engineering and Computer Science (EECS) student at National Tsing Hua University (NTHU) in Taiwan.
 
-I build native iOS apps with Swift and SwiftUI, cross-platform apps with Flutter and Firebase, and web applications with React. My interests include applied artificial intelligence (AI), AI agents, and Linux self-hosting.
+I build native iOS apps with Swift and SwiftUI, cross-platform apps with Flutter and Firebase, and web applications with React. My interests include applied artificial intelligence (AI), AI agents, and self-hosting.
 
 I care about interfaces that make complex things feel approachable, and about getting an idea into people's hands.
 
@@ -46,15 +46,15 @@ I care about interfaces that make complex things feel approachable, and about ge
 ## Beyond the featured projects
 
 - **Encredible**: exploring SwiftUI interfaces and ARKit/LiDAR for spatial evidence verification in a volunteer activity verification prototype.
-- **Self-hosted Hermes**: experimenting with AI agent workflows and Linux-based self-hosting.
+- **Self-hosted Hermes**: experimenting with AI agent workflows and self-hosting.
 
 ## Tech stack
 
 **Languages & frameworks**
 
-Swift, SwiftUI, Python, C, C++, Dart, Flutter, JavaScript, React, HTML, CSS, Vite, Tailwind CSS, and MIPS Assembly.
+Swift, SwiftUI, Python, C, C++, Dart, Flutter, JavaScript, React, Astro, HTML, CSS, Vite, Tailwind CSS, and MIPS Assembly.
 
-![Swift, Python, C, C++, Dart, Flutter, JavaScript, HTML, CSS, React, Firebase, and Vite](https://skillicons.dev/icons?i=swift,py,c,cpp,dart,flutter,js,html,css,react,firebase,vite&perline=8)
+![Swift, Python, C, C++, Dart, Flutter, JavaScript, HTML, CSS, React, Firebase, Vite, and Astro](https://skillicons.dev/icons?i=swift,py,c,cpp,dart,flutter,js,html,css,react,firebase,vite,astro&perline=8)
 
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-1F6FEB?style=flat-square)
 
@@ -64,9 +64,9 @@ Firebase, Cloud Firestore, Firebase Authentication, Firebase Cloud Functions, an
 
 **Development tools**
 
-Git, GitHub, GitLab, Linux, Bash, Visual Studio Code (VS Code), CLion, Android Studio, and Arduino.
+Git, GitHub, GitLab, Bash, Visual Studio Code (VS Code), CLion, Android Studio, and Arduino.
 
-![Git, GitHub, GitLab, Linux, Bash, VS Code, CLion, Android Studio, and Arduino](https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vscode,clion,androidstudio,arduino&perline=9)
+![Git, GitHub, GitLab, Bash, VS Code, CLion, Android Studio, and Arduino](https://skillicons.dev/icons?i=git,github,gitlab,bash,vscode,clion,androidstudio,arduino&perline=8)
 
 **AI tools**
 
