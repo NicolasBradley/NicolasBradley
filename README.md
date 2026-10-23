@@ -64,3 +64,4 @@ Also comfortable working with C/C++, JavaScript, HTML/CSS, Git, and Figma.
 ---
 
 Open to thoughtful collaborations in mobile development, useful AI tools, and student communities. Reach me at **[bradley@chandra.co](mailto:bradley@chandra.co)** or [Gmail](mailto:nicolasbradleychandra@gmail.com).
+
