@@ -1,81 +1,67 @@
+<h1 align="center">Hi, I'm Bradley.</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D;iOS+Dev+%7C+EECS+Student+%7C+Swift+%7C+Python+%7C+C" alt="Typing SVG" />
+  EECS at National Tsing Hua University, Taiwan<br>
+  I build apps for learning, travel, and the communities around me.
 </p>
 
 <p align="center">
-  <em>EECS Student @ National Tsing Hua University • Swift • Python • Web Dev • C++ Learner</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1800&color=3B82F6&center=true&vCenter=true&width=600&height=40&lines=iOS+%C2%B7+Web+%C2%B7+Applied+AI;Making+progress+visible." alt="iOS · Web · Applied AI. Making progress visible." width="600" height="40">
 </p>
-
----
-
-### 🏷️ Badges
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-
----
-
-### 🧠 About Me
-
-- 🎓 Currently studying at **National Tsing Hua University**, Taiwan 🇹🇼  
-- 💻 Experienced with **Python**, **C**, **Swift**, and **Web Development**  
-- 📚 Currently mastering **C++**  
-- 📱 Creator of **[A Leveling](https://github.com/NicolasBradley/A-Leveling)** – Track your academic progress like the anime *Solo Leveling*  
-- 🧠 Passionate about building tools that make self-growth visual and fun  
-
----
-
-### 🚀 Projects
-
-| Project | Description | Language |
-|--------|-------------|----------|
-| [A Leveling App](https://github.com/NicolasBradley/A-Leveling) | iOS App for tracking A-Level study progress | Swift |
-| [PulseBridge Technology](https://github.com/xs1128/PulseBridge-Technology) | Landing page for SMU Global Business Plan Competition | JavaScript |
-| [I2P-1-CS-Final-Project](https://github.com/NicolasBradley/I2P-1-CS-Final-Project) | Final Project for Intro to Programming 1 | C |
-| [Final-Project-Battleship](https://github.com/NicolasBradley/Final-Project-Battleship) | Battleship game simulation | Python |
-| [One Piece Memory Game](https://github.com/NicolasBradley/one-piece-matching-card-final-project) | Memory card game with One Piece theme | Python |
-| [InsideSherpa YC Task](https://github.com/NicolasBradley/shiptivitas-1) | Task 1 from InsideSherpa YC Program | JavaScript |
-
----
-
-### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://sites.google.com/view/aleveling/contact?authuser=4">
-    <img src="https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://instagram.com/alevelingofficial">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:nicolasbradleychandra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Click%20to%20Send-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/nbc-bradley">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:bradley@chandra.co">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nbc-bradley">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://sites.google.com/view/aleveling/contact">A Leveling website</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/alevelingofficial">Instagram</a>
+</p>
+
+## A little about me
+
+I'm Nicolas Bradley Chandra, an EECS student who enjoys turning personal problems into useful software. My work spans native iOS apps, collaborative web experiences, and practical experiments with AI.
+
+I care about interfaces that make complex things feel approachable—and about getting an idea into people's hands.
+
+## Featured projects
+
+| Project | What I've been building | Stack |
+| :--- | :--- | :--- |
+| **[Travel Agent](https://github.com/Fincarson/Travelling_with_Flutter)** | Collaborative travel planning with shared itineraries, group chat, and AI assistance. Team leader and sprint facilitator for our Software Studio project. | Flutter · Dart · Firebase |
+| **[A Leveling](https://sites.google.com/view/aleveling/contact)** | My published iOS app for tracking academic progress through practice logs, visual feedback, and a motivational companion named Blue. | Swift · SwiftUI |
+| **[NTHU Confessions](https://confession.sloppylabs.com/)** | A student confession submission interface, with submissions queued for review. Built as part of SloppyLabs. | React · Supabase |
+| **[EECS-GSA website](https://www.nthu-eecsgsa.org/)** | Contributing to the student association's website design and development, bringing together community information and a distinct visual identity. | Web · UI/UX |
+
+## Beyond the featured projects
+
+- **Encredible** — exploring SwiftUI interfaces and ARKit/LiDAR for spatial evidence verification in a volunteer activity verification prototype.
+- **Self-hosted Hermes** — experimenting with AI agent workflows and Linux-based self-hosting.
+
+## Community & experience
+
+- **Head of Public Relations, EECS-GSA** · June 2026–present. Working on outreach, partnerships, and student engagement alongside my website contributions.
+- **Media Intern, [Cultivator](https://cultivatortech.com/)** · April 2026–present. Built the startup's website and produced digital content, including 11 Reels with 50K+ combined views.
+
+## Tools I reach for
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Also comfortable working with C/C++, JavaScript, HTML/CSS, Git, and Figma.
+
+<details>
+<summary>GitHub activity</summary>
+
+<p>
+  <a href="https://github.com/NicolasBradley?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&show_icons=false&hide_border=true&hide_rank=true&hide=stars&theme=transparent&title_color=3B82F6&text_color=8B949E" alt="Bradley's public GitHub activity statistics" width="420" loading="lazy">
   </a>
 </p>
 
+</details>
+
 ---
 
-### 🏆 Achievements & 📊 Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=NicolasBradley&theme=algolia&title=PullRequest" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBradley&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=NicolasBradley&theme=codeSTACKr&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBradley&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+Open to thoughtful collaborations in mobile development, useful AI tools, and student communities. Reach me at **[bradley@chandra.co](mailto:bradley@chandra.co)** or [Gmail](mailto:nicolasbradleychandra@gmail.com).
