@@ -11,7 +11,7 @@
   <a href="mailto:bradley@chandra.co">Email</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/nbc-bradley">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.sloppylabs.com/">SloppyLabs</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/alevelingofficial">Instagram</a>
+  <a href="https://www.instagram.com/nicolasbradley.pictures/">Instagram</a>
 </p>
 
 <p align="center">
