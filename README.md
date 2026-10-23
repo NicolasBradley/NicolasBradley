@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D;iOS+Dev+%7C+EECS+Student+%7C+Swift+%7C+Python+%7C+C" alt="Hi, My Name Is Bradley! :D | iOS Dev | EECS Student | Swift | Python | C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+My+Name+Is+Bradley!+:D" alt="Hi, My Name Is Bradley! :D" />
 </p>
 
 <p align="center">
