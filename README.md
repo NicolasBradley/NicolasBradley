@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bradley@chandra.co">Email</a> &nbsp;·&nbsp;
+  <a href="mailto:nicolasbradleychandra@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://www.sloppylabs.com/">SloppyLabs</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/nicolasbradley.pictures/">Instagram</a>
 </p>
@@ -98,4 +98,4 @@ Figma, Canva, and Notion.
 
 ---
 
-Open to thoughtful collaborations in mobile development, useful AI tools, and student communities. Reach me at **[bradley@chandra.co](mailto:bradley@chandra.co)** or [Gmail](mailto:nicolasbradleychandra@gmail.com).
+Open to thoughtful collaborations in mobile development, useful AI tools, and student communities. Reach me at **[nicolasbradleychandra@gmail.com](mailto:nicolasbradleychandra@gmail.com)**.
