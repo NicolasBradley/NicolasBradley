@@ -33,14 +33,14 @@ I care about interfaces that make complex things feel approachable, and about ge
 
 ## Featured projects
 
-| Project | What I've been building | Stack |
-| :--- | :--- | :--- |
-| **[Travel Agent](https://github.com/Fincarson/Travelling_with_Flutter)** | Collaborative travel planning with shared itineraries, group chat, and AI assistance. | Flutter · Dart · Firebase |
-| **[EECS-GSA website](https://www.nthu-eecsgsa.org/)** | Contributing to the student association's website design and development. | Web · UI/UX |
-| **[NTHU Confessions](https://confession.sloppylabs.com/)** | A student confession submission interface, with submissions queued for review. Built as part of SloppyLabs. | React · Supabase |
-| **[Cultivator website](https://cultivatortech.com/)** | Built the startup's website for its smart aquaculture monitoring platform. [Source](https://github.com/NicolasBradley/Cultivator) | React · Vite · Tailwind CSS |
-| **[A Leveling](https://sites.google.com/view/aleveling/contact)** | My published iOS app for practice logging, academic progress tracking, and visual motivation. | Swift · SwiftUI |
-| **[Panda's Revenge](https://github.com/NicolasBradley/I2P-1-CS-Final-Project)** | A 2D game with player movement, enemies, weapons, and multiple game scenes. | C · Allegro 5 |
+| Project | What I've been building | Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **[Travel Agent](https://github.com/Fincarson/Travelling_with_Flutter)** | Collaborative travel planning with shared itineraries, group chat, and AI assistance. | Flutter · Dart · Firebase | [Source](https://github.com/Fincarson/Travelling_with_Flutter) |
+| **[EECS-GSA website](https://www.nthu-eecsgsa.org/)** | Contributing to the student association's website design and development. | Web · UI/UX | Private |
+| **[NTHU Confessions](https://confession.sloppylabs.com/)** | A student confession submission interface, with submissions queued for review. Built as part of SloppyLabs. | React · Supabase | Private |
+| **[Cultivator website](https://cultivatortech.com/)** | Built the startup's website for its smart aquaculture monitoring platform. | React · Vite · Tailwind CSS | [Source](https://github.com/NicolasBradley/Cultivator) |
+| **[A Leveling](https://sites.google.com/view/aleveling/contact)** | My published iOS app for practice logging, academic progress tracking, and visual motivation. | Swift · SwiftUI | Private |
+| **[Panda's Revenge](https://github.com/NicolasBradley/I2P-1-CS-Final-Project)** | A 2D game with player movement, enemies, weapons, and multiple game scenes. | C · Allegro 5 | [Source](https://github.com/NicolasBradley/I2P-1-CS-Final-Project) |
 
 ## Beyond the featured projects
 
