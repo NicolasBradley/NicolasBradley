@@ -9,7 +9,6 @@
 
 <p align="center">
   <a href="mailto:bradley@chandra.co">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/nbc-bradley">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.sloppylabs.com/">SloppyLabs</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/nicolasbradley.pictures/">Instagram</a>
 </p>
